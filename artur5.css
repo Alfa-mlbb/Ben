@@ -1,0 +1,51 @@
+nav a{
+    text-decoration: none;
+    color: white;
+}
+.messi{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    background-color: #000004d2;
+    color: white;
+}
+.ronaldo{
+    display: flex;
+    gap: 50px;
+}
+.neymar{
+    
+}
+body{
+    background-color: rgb(3, 3, 87);
+    color: white;
+}
+.thegoats{
+background-color: #6b6bff;
+margin-left: 800px;
+margin-right: 200px;
+text-align: center;
+border-radius: 10px;
+}
+.maradona{
+    background-color: #6b6bff;
+    margin-left: 200px;
+    margin-right: 780px;
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.pele{
+background-color: #6b6bff;
+margin-left: 800px;
+margin-right: 200px;
+text-align: center;
+border-radius: 10px;
+}
+.qp{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 30px;
+    width: 150px;
+    text-align: center;
+}
